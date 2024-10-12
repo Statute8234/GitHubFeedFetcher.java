@@ -1,12 +1,12 @@
 # GitHubFeedFetcher
+The GitHubFeedFetcher is a Java program that requests data from the GitHub API using a URL and access token, using HttpURLConnection and Base64 authentication.
+
 
 [![Static Badge](https://img.shields.io/badge/java.io.BufferedReader-red)](https://mvnrepository.com/artifact/java.io.BufferedReader)
 [![Static Badge](https://img.shields.io/badge/java.io.InputStreamReader-pink)](https://mvnrepository.com/artifact/java.io.InputStreamReader)
 [![Static Badge](https://img.shields.io/badge/java.net.HttpURLConnection-gray)](https://mvnrepository.com/artifact/java.net.HttpURLConnection)
 [![Static Badge](https://img.shields.io/badge/java.net.URL-gray)](https://mvnrepository.com/artifact/java.net.URL)
 [![Static Badge](https://img.shields.io/badge/java.util.Base64-green)](https://mvnrepository.com/artifact/java.util.Base64)
-
-The GitHubFeedFetcher is a Java program that requests data from the GitHub API using a URL and access token, using HttpURLConnection and Base64 authentication.
 
 ## Table of Contents
 
