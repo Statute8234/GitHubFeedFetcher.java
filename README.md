@@ -1,10 +1,10 @@
 # GitHubFeedFetcher
 
-[![Static Badge](https://img.shields.io/badge/BufferedReader-ivory)](https://docs.oracle.com/javase/8/docs/api/java/io/BufferedReader.html)
-[![Static Badge](https://img.shields.io/badge/InputStreamReader-honeydew)](https://docs.oracle.com/javase/8/docs/api/java/io/InputStreamReader.html)
-[![Static Badge](https://img.shields.io/badge/HttpURLConnection-gainsboro)](https://docs.oracle.com/javase/8/docs/api/java/net/HttpURLConnection.html)
-[![Static Badge](https://img.shields.io/badge/URL-cream)](https://docs.oracle.com/javase/8/docs/api/java/net/URL.html)
-[![Static Badge](https://img.shields.io/badge/Base64-linen)](https://docs.oracle.com/javase/8/docs/api/java/util/Base64.html)
+[![Static Badge](https://img.shields.io/badge/java.io.BufferedReader-red)](https://mvnrepository.com/artifact/java.io.BufferedReader)
+[![Static Badge](https://img.shields.io/badge/java.io.InputStreamReader-pink)](https://mvnrepository.com/artifact/java.io.InputStreamReader)
+[![Static Badge](https://img.shields.io/badge/java.net.HttpURLConnection-gray)](https://mvnrepository.com/artifact/java.net.HttpURLConnection)
+[![Static Badge](https://img.shields.io/badge/java.net.URL-gray)](https://mvnrepository.com/artifact/java.net.URL)
+[![Static Badge](https://img.shields.io/badge/java.util.Base64-green)](https://mvnrepository.com/artifact/java.util.Base64)
 
 The GitHubFeedFetcher is a Java program that requests data from the GitHub API using a URL and access token, using HttpURLConnection and Base64 authentication.
 
